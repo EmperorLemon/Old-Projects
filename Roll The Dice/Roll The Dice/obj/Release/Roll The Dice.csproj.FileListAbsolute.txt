@@ -1,0 +1,10 @@
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\bin\Release\Roll The Dice.exe.config
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\bin\Release\Roll The Dice.exe
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\bin\Release\Roll The Dice.pdb
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\obj\Release\Roll The Dice.csprojAssemblyReference.cache
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\obj\Release\Roll_The_Dice.DiceRoller.resources
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\obj\Release\Roll_The_Dice.Properties.Resources.resources
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\obj\Release\Roll The Dice.csproj.GenerateResource.cache
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\obj\Release\Roll The Dice.csproj.CoreCompileInputs.cache
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\obj\Release\Roll The Dice.exe
+C:\Users\cjmee\source\repos\Roll The Dice\Roll The Dice\obj\Release\Roll The Dice.pdb
